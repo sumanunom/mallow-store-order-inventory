@@ -106,4 +106,4 @@ ChatGPT was used as a supporting tool during development for technical clarifica
 
 The development process was guided by my Laravel experience, with a focus on clean code, maintainable architecture, data consistency, and reliable API behavior.
 
-Selected screenshots of actual prompts used during development are available in the prompts/ directory. These cover specific technical discussions related to the implementation, debugging, and testing of the application.
+Selected screenshots of actual prompts used during development are available in the public/prompts/ directory. These cover specific technical discussions related to the implementation, debugging, and testing of the application.
